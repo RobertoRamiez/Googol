@@ -1,8 +1,7 @@
 .titulo-pagina{
-    color: rgb(64, 134, 246);
     font-family: 'Spartan', sans-serif;
     font-size: 80px;
-    margin-left: 38%;
+    margin-left: 35%;
     margin-top: 20px;
     margin-bottom: 25px;
 }
@@ -47,7 +46,7 @@
     color: rgb(100, 100, 100);
     font-family: Arial, Helvetica, sans-serif;
     margin-left: 5px;
-    width: 200px;
+    width: 150px;
     height: 40px;
 }
 
